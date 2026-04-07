@@ -1,17 +1,20 @@
-# jasmineamber
+# 👋 Hi, I'm jasmineamber
 
 <div align="center">
-  <img src="https://readme.u14.app/api/github/stats?userId=W4PJmOKvW5nzr3lp0tsrGKniXrlMyesD" alt="GitHub Stats" width="48%" />
-  <img src="https://readme.u14.app/api/github/top-langs?userId=W4PJmOKvW5nzr3lp0tsrGKniXrlMyesD" alt="Top Languages" width="48%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=600&lines=Building+with+code+since+2015;JavaScript+%7C+TypeScript+%7C+Python" alt="Typing SVG" />
 </div>
+
+---
 
 ## About Me
 
-GitHub member since 2015 with a builder-dominant contribution style. Focused on creating and maintaining code through a high commit share (73.1%), supported by issue contributions (17.3%). Primarily works in JavaScript, TypeScript, and Python. In the recent 90-day window, active on 13 days across 2 public repositories using TypeScript and Python.
+I'm a builder focused on creating through code. Member of GitHub since 2015, I've been actively contributing in the open source space with a strong emphasis on hands-on development.
 
-<br>
+My work centers around **JavaScript**, **TypeScript**, and **Python**, with additional experience in Shell scripting. In the last 90 days, I've been active on 13 days across 2 public repositories, primarily working with TypeScript and Python.
 
-> 自 2015 年起成为 GitHub 成员，采用以构建为主的贡献方式。通过高提交占比（73.1%）专注于代码创建与维护，并辅以 Issue 贡献（17.3%）。主要工作领域为 JavaScript、TypeScript 和 Python。最近 90 天内在 13 个活跃日中，为 2 个公开仓库使用 TypeScript 和 Python 进行开发。
+I operate primarily in builder mode: committing directly (73.1% of contributions), opening issues (17.3%), and submitting pull requests (9.6%). This focused approach has resulted in consistent, targeted progress across a modest but intentional set of projects.
+
+---
 
 ## Tech Stack
 
@@ -24,19 +27,38 @@ GitHub member since 2015 with a builder-dominant contribution style. Focused on 
   <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell" />
 </p>
 
+---
+
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://readme.u14.app/api/github/stats?userId=W4PJmOKvW5nzr3lp0tsrGKniXrlMyesD" alt="GitHub Stats" width="48%" />
-  <img src="https://readme.u14.app/api/github/top-langs?userId=W4PJmOKvW5nzr3lp0tsrGKniXrlMyesD" alt="Top Languages" width="48%" />
+
+<img src="https://readme.u14.app/api/github/stats?userId=W4PJmOKvW5nzr3lp0tsrGKniXrlMyesD" alt="jasmineamber GitHub Stats" width="48%" />
+
+<img src="https://readme.u14.app/api/github/top-langs?userId=W4PJmOKvW5nzr3lp0tsrGKniXrlMyesD" alt="jasmineamber Top Languages" width="48%" />
+
 </div>
+
+---
 
 ## Contribution Activity
 
-![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=jasmineamber&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jasmineamber&theme=tokyonight&hide_border=true" alt="jasmineamber Contribution Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jasmineamber&theme=tokyo-night&hide_border=true" alt="jasmineamber Contribution Activity Graph" />
+</div>
+
+---
+
+## Let's Connect
+
+While I'm currently focused on building quietly, feel free to explore my repositories below.
 
 ---
 
 <div align="center">
-  <sub>Built with focus on clean, maintainable code • jasmineamber © 2026</sub>
+  <img src="https://komarev.com/ghpvc/?username=jasmineamber&label=Profile%20Views&color=00F0FF&style=flat" alt="Profile Views" />
 </div>
