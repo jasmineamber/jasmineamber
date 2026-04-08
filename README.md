@@ -1,64 +1,74 @@
-# 👋 Hi, I'm jasmineamber
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=600&lines=Building+with+code+since+2015;JavaScript+%7C+TypeScript+%7C+Python" alt="Typing SVG" />
-</div>
-
----
-
-## About Me
-
-I'm a builder focused on creating through code. Member of GitHub since 2015, I've been actively contributing in the open source space with a strong emphasis on hands-on development.
-
-My work centers around **JavaScript**, **TypeScript**, and **Python**, with additional experience in Shell scripting. In the last 90 days, I've been active on 13 days across 2 public repositories, primarily working with TypeScript and Python.
-
-I operate primarily in builder mode: committing directly (73.1% of contributions), opening issues (17.3%), and submitting pull requests (9.6%). This focused approach has resulted in consistent, targeted progress across a modest but intentional set of projects.
-
----
-
-## Tech Stack
-
-### Languages
-
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2DF8C5&center=true&vCenter=true&width=500&lines=Hi,+I'm+jasmineamber;Builder+%26+Open+Source+Contributor;JavaScript+%2F+Python+%2F+TypeScript" alt="Typing SVG" />
 </p>
 
 ---
 
-## GitHub Stats
+## 👩‍💻 About Me
 
-<div align="center">
+**jasmineamber** — GitHub member since 2015. Active builder with a strong focus on **JavaScript** (85.8%), **Python** (10.1%), and **TypeScript** (2.8%). Over the last 90 days, 14 active days across 3 public repositories, primarily working with TypeScript and Python.
 
-<img src="https://readme.u14.app/api/github/stats?userId=W4PJmOKvW5nzr3lp0tsrGKniXrlMyesD" alt="jasmineamber GitHub Stats" width="48%" />
+- **Contribution style**: 74.5% commits, 9.1% PRs, 16.4% issues — a dedicated builder who opens issues and submits pull requests.
+- **Recent focus**: TypeScript and Python projects, with ongoing maintenance signals.
+- **Tooling**: Shell scripting and Dockerfile support for environment automation.
 
-<img src="https://readme.u14.app/api/github/top-langs?userId=W4PJmOKvW5nzr3lp0tsrGKniXrlMyesD" alt="jasmineamber Top Languages" width="48%" />
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jasmineamber&theme=tokyonight&hide_border=true" alt="jasmineamber Contribution Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jasmineamber&theme=tokyo-night&hide_border=true" alt="jasmineamber Contribution Activity Graph" />
-</div>
+No public organizations — working independently across a curated set of repositories.
 
 ---
 
-## Let's Connect
+## 🧰 Tech Stack
 
-While I'm currently focused on building quietly, feel free to explore my repositories below.
+### Languages
+[JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+[TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+[Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[Shell](https://img.shields.io/badge/-Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### Environments & Tools
+[Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+[Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jasmineamber&label=Profile%20Views&color=00F0FF&style=flat" alt="Profile Views" />
-</div>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://readme.u14.app/api/github/stats?userId=W4PJmOKvW5nzr3lp0tsrGKniXrlMyesD" alt="GitHub Stats Card" />
+  <img width="48%" src="https://readme.u14.app/api/github/top-langs?userId=W4PJmOKvW5nzr3lp0tsrGKniXrlMyesD" alt="Top Languages Card" />
+</p>
+
+---
+
+## 🔥 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jasmineamber&theme=tokyonight" alt="GitHub Streak Stats" />
+</p>
+
+- **79 contributions** in the last 90 days | 14 active days | 41 commits | 5 PRs | 9 issues
+- **74.5% commit share** – primary mode: building and maintaining code
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img width="100%" src="https://readme.u14.app/api/github/trophies?userId=W4PJmOKvW5nzr3lp0tsrGKniXrlMyesD" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jasmineamber/jasmineamber/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jasmineamber/jasmineamber/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jasmineamber/jasmineamber/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jasmineamber&style=flat-square&color=58A6FF" alt="Profile views" />
+</p>
